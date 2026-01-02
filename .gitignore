@@ -1,0 +1,4 @@
+/venv
+/UCI HAR Dataset
+__MACOSX/*
+*.zip
